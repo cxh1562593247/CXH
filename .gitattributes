@@ -1,0 +1,8 @@
+software/pycharm-professional-2020.1.2.exe filter=lfs diff=lfs merge=lfs -text
+software/python-3.8.3-amd64.exe filter=lfs diff=lfs merge=lfs -text
+software/7z1900.exe filter=lfs diff=lfs merge=lfs -text
+software/Git-2.27.0-64-bit.exe filter=lfs diff=lfs merge=lfs -text
+software/HiSuite_10.0.0.510.zip filter=lfs diff=lfs merge=lfs -text
+software/jetbrains-agent-latest.zip filter=lfs diff=lfs merge=lfs -text
+software/nppInstaller.exe filter=lfs diff=lfs merge=lfs -text
+software/openjdk-14.0.1_windows-x64_bin.zip filter=lfs diff=lfs merge=lfs -text
